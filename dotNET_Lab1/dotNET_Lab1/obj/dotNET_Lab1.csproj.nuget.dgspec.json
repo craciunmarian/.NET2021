@@ -1,21 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\razvy\\source\\repos\\dotNET_Lab1\\dotNET_Lab1\\dotNET_Lab1.csproj": {}
+    "D:\\FACULTATE\\Anul lll sem l\\.NET2021\\dotNET_Lab1\\dotNET_Lab1\\dotNET_Lab1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\razvy\\source\\repos\\dotNET_Lab1\\dotNET_Lab1\\dotNET_Lab1.csproj": {
+    "D:\\FACULTATE\\Anul lll sem l\\.NET2021\\dotNET_Lab1\\dotNET_Lab1\\dotNET_Lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\razvy\\source\\repos\\dotNET_Lab1\\dotNET_Lab1\\dotNET_Lab1.csproj",
+        "projectUniqueName": "D:\\FACULTATE\\Anul lll sem l\\.NET2021\\dotNET_Lab1\\dotNET_Lab1\\dotNET_Lab1.csproj",
         "projectName": "dotNET_Lab1",
-        "projectPath": "C:\\Users\\razvy\\source\\repos\\dotNET_Lab1\\dotNET_Lab1\\dotNET_Lab1.csproj",
-        "packagesPath": "C:\\Users\\razvy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\razvy\\source\\repos\\dotNET_Lab1\\dotNET_Lab1\\obj\\",
+        "projectPath": "D:\\FACULTATE\\Anul lll sem l\\.NET2021\\dotNET_Lab1\\dotNET_Lab1\\dotNET_Lab1.csproj",
+        "packagesPath": "C:\\Users\\DenisaIonela\\.nuget\\packages\\",
+        "outputPath": "D:\\FACULTATE\\Anul lll sem l\\.NET2021\\dotNET_Lab1\\dotNET_Lab1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\razvy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\DenisaIonela\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

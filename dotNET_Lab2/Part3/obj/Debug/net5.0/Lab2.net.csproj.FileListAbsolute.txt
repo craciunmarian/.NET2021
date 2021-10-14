@@ -1,0 +1,16 @@
+C:\Users\DenisaIonela\Desktop\Lab2.net\obj\Debug\net5.0\Lab2.net.csproj.AssemblyReference.cache
+C:\Users\DenisaIonela\Desktop\Lab2.net\obj\Debug\net5.0\Lab2.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenisaIonela\Desktop\Lab2.net\obj\Debug\net5.0\Lab2.net.AssemblyInfoInputs.cache
+C:\Users\DenisaIonela\Desktop\Lab2.net\obj\Debug\net5.0\Lab2.net.AssemblyInfo.cs
+C:\Users\DenisaIonela\Desktop\Lab2.net\obj\Debug\net5.0\Lab2.net.csproj.CoreCompileInputs.cache
+C:\Users\DenisaIonela\Desktop\Lab2.net\bin\Debug\net5.0\Lab2.net.exe
+C:\Users\DenisaIonela\Desktop\Lab2.net\bin\Debug\net5.0\Lab2.net.deps.json
+C:\Users\DenisaIonela\Desktop\Lab2.net\bin\Debug\net5.0\Lab2.net.runtimeconfig.json
+C:\Users\DenisaIonela\Desktop\Lab2.net\bin\Debug\net5.0\Lab2.net.runtimeconfig.dev.json
+C:\Users\DenisaIonela\Desktop\Lab2.net\bin\Debug\net5.0\Lab2.net.dll
+C:\Users\DenisaIonela\Desktop\Lab2.net\bin\Debug\net5.0\ref\Lab2.net.dll
+C:\Users\DenisaIonela\Desktop\Lab2.net\bin\Debug\net5.0\Lab2.net.pdb
+C:\Users\DenisaIonela\Desktop\Lab2.net\obj\Debug\net5.0\Lab2.net.dll
+C:\Users\DenisaIonela\Desktop\Lab2.net\obj\Debug\net5.0\ref\Lab2.net.dll
+C:\Users\DenisaIonela\Desktop\Lab2.net\obj\Debug\net5.0\Lab2.net.pdb
+C:\Users\DenisaIonela\Desktop\Lab2.net\obj\Debug\net5.0\Lab2.net.genruntimeconfig.cache
