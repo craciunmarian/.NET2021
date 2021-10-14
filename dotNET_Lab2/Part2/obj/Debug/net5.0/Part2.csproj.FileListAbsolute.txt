@@ -1,0 +1,16 @@
+C:\Users\razvy\source\repos\new\Part2\bin\Debug\net5.0\Part2.exe
+C:\Users\razvy\source\repos\new\Part2\bin\Debug\net5.0\Part2.deps.json
+C:\Users\razvy\source\repos\new\Part2\bin\Debug\net5.0\Part2.runtimeconfig.json
+C:\Users\razvy\source\repos\new\Part2\bin\Debug\net5.0\Part2.runtimeconfig.dev.json
+C:\Users\razvy\source\repos\new\Part2\bin\Debug\net5.0\Part2.dll
+C:\Users\razvy\source\repos\new\Part2\bin\Debug\net5.0\ref\Part2.dll
+C:\Users\razvy\source\repos\new\Part2\bin\Debug\net5.0\Part2.pdb
+C:\Users\razvy\source\repos\new\Part2\obj\Debug\net5.0\Part2.csproj.AssemblyReference.cache
+C:\Users\razvy\source\repos\new\Part2\obj\Debug\net5.0\Part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razvy\source\repos\new\Part2\obj\Debug\net5.0\Part2.AssemblyInfoInputs.cache
+C:\Users\razvy\source\repos\new\Part2\obj\Debug\net5.0\Part2.AssemblyInfo.cs
+C:\Users\razvy\source\repos\new\Part2\obj\Debug\net5.0\Part2.csproj.CoreCompileInputs.cache
+C:\Users\razvy\source\repos\new\Part2\obj\Debug\net5.0\Part2.dll
+C:\Users\razvy\source\repos\new\Part2\obj\Debug\net5.0\ref\Part2.dll
+C:\Users\razvy\source\repos\new\Part2\obj\Debug\net5.0\Part2.pdb
+C:\Users\razvy\source\repos\new\Part2\obj\Debug\net5.0\Part2.genruntimeconfig.cache
